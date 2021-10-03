@@ -1,0 +1,9 @@
+@import "./assets/css/image.css";
+@import "./assets/css/board.css";
+
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+
+@import "tailwindcss/utilities";

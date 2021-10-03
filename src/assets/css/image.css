@@ -1,0 +1,9 @@
+@layer components {
+  .circle-image {
+    @apply h-full w-auto mx-auto py-6;
+  }
+  
+  .cross-image {
+    @apply h-full w-auto mx-auto;
+  }
+}

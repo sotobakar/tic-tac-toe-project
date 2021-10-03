@@ -1,0 +1,5 @@
+@layer components {
+  .board-row {
+    @apply h-60 flex flex-row divide-x-8 divide-black;
+  }
+}
